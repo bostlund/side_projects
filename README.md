@@ -1,7 +1,7 @@
 # Side projects
  
 ## Overview
-This is a personal repository to catalog ongoing and completed projects that are not directly linked to my ongoing research (see my [academic website](brendanostlund.com) for information on those projects). My goal is to, whenever possible, utilize publicly available data to explore topics of interest (e.g., conservation of public lands, maternal care deserts). Along the way, I hope to improve my programming skills in Python (via Juypter Notebooks) and R (via R Markdowns), while increasing familiarity with version control systems. I will update the repository regularly, with notebooks added and edited as projects evolve. I will do my best to identify and link to the original sources for all materials.
+This is a personal repository to catalog ongoing and completed projects that are not directly linked to my ongoing research (see my [academic website](brendanostlund.com) for information on those projects). My goal is to, whenever possible, utilize publicly available data to explore topics of interest (e.g., use/conservation of public lands). Along the way, I hope to improve my programming skills in Python (via Juypter Notebooks) and R (via R Markdowns), while increasing familiarity with version control systems. I will update the repository regularly, with notebooks added and edited as projects evolve. I will do my best to identify and link to the original sources for all materials.
 
 ## Repository Layout
 This repository is set up in the following way:
