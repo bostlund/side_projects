@@ -3,7 +3,7 @@
 ## Overview
 This is repository is used to organize ongoing and completed projects, as well as: 
 
-1. Document skill development in Python (via Juypter Notebooks) and R (via R Markdown)
+1. Document skill development in Python (via Juypter Notebooks) and R (via R Markdowns)
 2. Increase comfort with version control systems
 
 I will update the repository regularly, with notebooks added and edited as projects evolve. I will do my best to identify and link to the original sources for all materials.
