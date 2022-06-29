@@ -12,7 +12,7 @@ This repository is set up in the following way:
 - `maternal_care_deserts/` - planned project based data from the [March of Dimes](https://www.marchofdimes.org/peristats/data?reg=99&top=23&slev=4&sreg=11).
 
 ## Requirements
-This repository use Python >= 3.6. Other required libraries (so far) include:
+This repository use Python >= 3.6. Required libraries (so far) include:
 - `pandas`
 - `numpy`
 - `matplotlib`
