@@ -9,7 +9,7 @@ I will update the repository regularly, with notebooks added and edited as proje
 This repository is set up in the following way:
 
 - `us_national_parks/` contains a notebook that accesses data on visitation at US national parks
-- `maternal_care_deserts/` - forthcoming project based data from the [March of Dimes](https://www.marchofdimes.org/peristats/data?reg=99&top=23&slev=4&sreg=11). Stay tuned.
+- `maternal_care_deserts/` - planned project based data from the [March of Dimes](https://www.marchofdimes.org/peristats/data?reg=99&top=23&slev=4&sreg=11).
 
 ## Requirements
 This repository use Python >= 3.6. Other required libraries (so far) include:
