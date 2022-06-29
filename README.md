@@ -12,7 +12,9 @@ This repository will be updated regularly, with notebooks added and edited as pr
 This repository is set up in the following way:
 
 - `us_national_parks/` contains a notebook that scraps data on visitation at US national parks
-- *to be continued*
+- *more to come*
+
+I also want to link to this [specparam tutorial](https://github.com/fooof-tools/DevelopmentalDemo) I worked on with Tom Dononghue, Berenice Anaya, Kelley Gunther, Sarah Karalunas, Brad Voytek, and Koraly Pérez-Edgar. Broadly, the goal of this project was to publish a practical resource for developmental cognitive neuroscientists interested in using this [spectral parameterization](https://fooof-tools.github.io/fooof/) tool. Accompanying manuscript can be found [here](https://doi.org/10.1016/j.dcn.2022.101073). 
 
 ## Requirements
 This repository use Python >= 3.6. Other required libraries (so far) include:
@@ -20,5 +22,4 @@ This repository use Python >= 3.6. Other required libraries (so far) include:
 - `numpy`
 - `matplotlib`
 - `seaborn`
-- *to be continued*
 
