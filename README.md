@@ -3,7 +3,7 @@
 ## Overview
 This is a personal repository to catalog ongoing projects that are not directly linked to my program of research (check out [this site](brendanostlund.com) for more information on that work). My goal is to learn new techniques to wrangle, visualize, and analyze data in Python (via Jupyter Notebooks) and R (via R Markdowns). I'll practice these skills using publicly available data on topics of interest, namely, nature, health, and human development. 
 
-I will update the repository regularly, with notebooks added and edited as projects evolve. I'll do my best to link to original sources for all materials.
+I will update the repository regularly, with notebooks added and edited as ideas evolve. I'll do my best to link to original sources for all materials.
 
 ## Repository Layout
 This repository is set up in the following way:
