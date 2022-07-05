@@ -6,3 +6,4 @@
 
 # ignore notebook checkpoints 
 **/.ipynb_checkpoints/**
+*.icloud
