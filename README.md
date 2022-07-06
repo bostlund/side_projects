@@ -1,7 +1,7 @@
 # Ongoing projects
  
 ## Overview
-This is a personal repository to catalog ongoing projects, most of which are not directly related to my program of research (check out [this site](brendanostlund.com) for more information on that work). My goal is to learn new techniques to wrangle, visualize, and analyze data in Python (via Jupyter Notebooks) and R (via R Markdowns). I'll practice these skills using publicly available data on topics of interest, namely, nature, health, and human development. Notebooks will generally be structured based on this [project scoping guide](http://www.datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/) from Carnegie Mellon.
+This is a personal repository to catalog ongoing projects, some of which may not be directly related to my program of research (check out [this site](brendanostlund.com) for more information on that work). My goal is to learn new techniques to wrangle, visualize, and analyze data in Python (via Jupyter Notebooks) and R (via R Markdowns). I'll practice these skills using publicly available data on topics of interest, namely, nature, health, and human development. Notebooks will generally be structured based on this [project scoping guide](http://www.datasciencepublicpolicy.org/our-work/tools-guides/data-science-project-scoping-guide/) from Carnegie Mellon.
 
 I will update the repository regularly, with notebooks added and edited as ideas evolve. I'll do my best to link to the original source for all materials. 
 
@@ -19,5 +19,5 @@ This repository use Python >= 3.6. Required libraries (so far) include:
 - `pandas`
 - `geopandas`
 - `matplotlib`
-- `contextily`
+- `seaborn`
 
