@@ -8,8 +8,8 @@ I will update the repository regularly, with notebooks added and edited as ideas
 ## Repository Layout
 This repository is set up in the following way:
 
-- `us_national_parks/` contains a notebook that visualizes data on visitation at US national parks
 - `maternal_care_deserts/` - planned project based data from the [March of Dimes](https://www.marchofdimes.org/peristats/data?reg=99&top=23&slev=4&sreg=11)
+- `us_national_parks/` contains a notebook that visualizes data on visitation at US national parks
 - `zwift_training` - planned project based on personal ride data from [Zwift](https://us.zwift.com/)
 
 ## Requirements
